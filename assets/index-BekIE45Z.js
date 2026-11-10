@@ -4610,8 +4610,7 @@ void main() {
 `},{kind:`text`,html:`<p>In the present day, the same room is full of researchers trying to figure out what happened in 1809. Hannah Jarvis is a writer investigating a mysterious hermit who lived in the garden. Bernard Nightingale is an English professor who is sure he has discovered that Byron killed Chater in a duel. That would make him famous. Valentine Coverly, a descendant of Thomasina&#39;s family, is a math graduate student, and he slowly realizes what Thomasina&#39;s old lesson book actually contains.</p>
 `},{kind:`text`,html:`<p>The comedy is that the audience knows more than the researchers. We watch them get the past wrong. Bernard&#39;s theory, spoiler, is completely wrong. Chater was not killed in a duel. He died in the West Indies after a monkey bit him.</p>
 `}]},{id:`back-and-forth`,partIndex:0,blocks:[{kind:`text`,html:`<p>The play moves back and forth: 1809, then today, then 1809, then today. And in the last scene, both centuries are on stage at the same time.</p>
-`},{kind:`text`,html:`<p>So that&#39;s the setup. Two centuries, one room, a genius girl, and a lot of people trying to recover what was lost.</p>
-`}]},{id:`course-question`,partIndex:1,blocks:[{kind:`text`,html:`<p>So why bring a 1993 play about thermodynamics into a class that started with Achilles?</p>
+`}]},{id:`course-question`,partIndex:1,blocks:[{kind:`text`,html:`<p>So why are we talking about thermodynamics?</p>
 `},{kind:`text`,html:`<p>Because <em>Arcadia</em> asks our course&#39;s central question. If everything is headed toward death and oblivion, what can a human life, or a work of art, actually mean? And it gives an answer that I think pushes against where we started this semester.</p>
 `}]},{id:`thesis`,partIndex:1,blocks:[{kind:`text`,html:`<p>Here&#39;s my argument:</p>
 `},{kind:`text`,html:`<blockquote>
